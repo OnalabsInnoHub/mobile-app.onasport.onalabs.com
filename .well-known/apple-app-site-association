@@ -1,0 +1,25 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "XX227NMHA3.com.onalabs.onasport"
+                ],
+                "paths": [
+                    "*"
+                ],
+                "components": [
+                    {
+                        "/": "/*"
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "XX227NMHA3.com.onalabs.onasport"
+        ]
+    }
+}

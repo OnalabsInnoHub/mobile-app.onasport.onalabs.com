@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.onalabs.onasport",
+    "sha256_cert_fingerprints":
+    ["3A:E9:88:11:FC:20:90:7D:35:82:2C:E0:5B:F9:18:D9:28:73:0D:09:18:BB:25:2E:F4:A3:65:35:56:FC:6C:48"]
+  }
+}]
